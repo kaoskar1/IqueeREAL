@@ -12,6 +12,20 @@
 		2C459BEA1F24D7D400FDF832 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 2C459BE81F24D7D400FDF832 /* Main.storyboard */; };
 		2C459BEC1F24D7D400FDF832 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 2C459BEB1F24D7D400FDF832 /* Assets.xcassets */; };
 		2C459BEF1F24D7D400FDF832 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 2C459BED1F24D7D400FDF832 /* LaunchScreen.storyboard */; };
+		2C459BF91F24D8EB00FDF832 /* SignInVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2C459BF81F24D8EB00FDF832 /* SignInVC.swift */; };
+		2C459C051F24DA4700FDF832 /* UIButtonX.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2C459BFB1F24DA4700FDF832 /* UIButtonX.swift */; };
+		2C459C061F24DA4700FDF832 /* UIImageViewX.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2C459BFC1F24DA4700FDF832 /* UIImageViewX.swift */; };
+		2C459C071F24DA4700FDF832 /* UILabelX.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2C459BFD1F24DA4700FDF832 /* UILabelX.swift */; };
+		2C459C081F24DA4700FDF832 /* UISliderX.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2C459BFE1F24DA4700FDF832 /* UISliderX.swift */; };
+		2C459C091F24DA4700FDF832 /* UITextFieldX.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2C459BFF1F24DA4700FDF832 /* UITextFieldX.swift */; };
+		2C459C0A1F24DA4700FDF832 /* UIViewAnchorPoint.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2C459C001F24DA4700FDF832 /* UIViewAnchorPoint.swift */; };
+		2C459C0B1F24DA4700FDF832 /* UIViewControllerX.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2C459C011F24DA4700FDF832 /* UIViewControllerX.swift */; };
+		2C459C0C1F24DA4700FDF832 /* UIViewX.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2C459C021F24DA4700FDF832 /* UIViewX.swift */; };
+		2C459C0D1F24DA4700FDF832 /* UIViewXRadialGradient.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2C459C031F24DA4700FDF832 /* UIViewXRadialGradient.swift */; };
+		2C459C0E1F24DA4700FDF832 /* UIVisualEffectViewX.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2C459C041F24DA4700FDF832 /* UIVisualEffectViewX.swift */; };
+		2CD4A33D1F24EB53004C7CBD /* GoogleService-Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = 2CD4A33C1F24EB53004C7CBD /* GoogleService-Info.plist */; };
+		2CD4A33F1F24EB65004C7CBD /* GoogleService-Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = 2CD4A33E1F24EB65004C7CBD /* GoogleService-Info.plist */; };
+		94150334539ED2867DADDF7F /* Pods_Iquue.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = AE9D36763C2A7D36C0FF01CB /* Pods_Iquue.framework */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +36,22 @@
 		2C459BEB1F24D7D400FDF832 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		2C459BEE1F24D7D400FDF832 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		2C459BF01F24D7D400FDF832 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		2C459BF81F24D8EB00FDF832 /* SignInVC.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = SignInVC.swift; path = ../SignInVC.swift; sourceTree = "<group>"; };
+		2C459BFB1F24DA4700FDF832 /* UIButtonX.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = UIButtonX.swift; sourceTree = "<group>"; };
+		2C459BFC1F24DA4700FDF832 /* UIImageViewX.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = UIImageViewX.swift; sourceTree = "<group>"; };
+		2C459BFD1F24DA4700FDF832 /* UILabelX.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = UILabelX.swift; sourceTree = "<group>"; };
+		2C459BFE1F24DA4700FDF832 /* UISliderX.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = UISliderX.swift; sourceTree = "<group>"; };
+		2C459BFF1F24DA4700FDF832 /* UITextFieldX.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = UITextFieldX.swift; sourceTree = "<group>"; };
+		2C459C001F24DA4700FDF832 /* UIViewAnchorPoint.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = UIViewAnchorPoint.swift; sourceTree = "<group>"; };
+		2C459C011F24DA4700FDF832 /* UIViewControllerX.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = UIViewControllerX.swift; sourceTree = "<group>"; };
+		2C459C021F24DA4700FDF832 /* UIViewX.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = UIViewX.swift; sourceTree = "<group>"; };
+		2C459C031F24DA4700FDF832 /* UIViewXRadialGradient.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = UIViewXRadialGradient.swift; sourceTree = "<group>"; };
+		2C459C041F24DA4700FDF832 /* UIVisualEffectViewX.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = UIVisualEffectViewX.swift; sourceTree = "<group>"; };
+		2CD4A33C1F24EB53004C7CBD /* GoogleService-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "GoogleService-Info.plist"; sourceTree = "<group>"; };
+		2CD4A33E1F24EB65004C7CBD /* GoogleService-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "GoogleService-Info.plist"; sourceTree = "<group>"; };
+		6990F3C777ADE40C40738DD2 /* Pods-Iquue.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Iquue.debug.xcconfig"; path = "Pods/Target Support Files/Pods-Iquue/Pods-Iquue.debug.xcconfig"; sourceTree = "<group>"; };
+		9D5F5E457F814295A88DBCEA /* Pods-Iquue.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Iquue.release.xcconfig"; path = "Pods/Target Support Files/Pods-Iquue/Pods-Iquue.release.xcconfig"; sourceTree = "<group>"; };
+		AE9D36763C2A7D36C0FF01CB /* Pods_Iquue.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_Iquue.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -29,17 +59,44 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				94150334539ED2867DADDF7F /* Pods_Iquue.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		2C0D8A431F24F15300954E64 /* Model */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			name = Model;
+			sourceTree = "<group>";
+		};
+		2C0D8A441F24F15900954E64 /* View */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			name = View;
+			sourceTree = "<group>";
+		};
+		2C0D8A451F24F16A00954E64 /* Controller */ = {
+			isa = PBXGroup;
+			children = (
+				2C459BE61F24D7D400FDF832 /* ViewController.swift */,
+				2C459BF81F24D8EB00FDF832 /* SignInVC.swift */,
+			);
+			name = Controller;
+			sourceTree = "<group>";
+		};
 		2C459BD81F24D7D400FDF832 = {
 			isa = PBXGroup;
 			children = (
 				2C459BE31F24D7D400FDF832 /* Iquue */,
 				2C459BE21F24D7D400FDF832 /* Products */,
+				2C459BFA1F24DA4700FDF832 /* DesignableX */,
+				DCE02193069614C3529F620D /* Pods */,
+				D0EDD775781825891F41822E /* Frameworks */,
 			);
 			sourceTree = "<group>";
 		};
@@ -54,14 +111,52 @@
 		2C459BE31F24D7D400FDF832 /* Iquue */ = {
 			isa = PBXGroup;
 			children = (
+				2C0D8A451F24F16A00954E64 /* Controller */,
+				2C0D8A441F24F15900954E64 /* View */,
+				2C0D8A431F24F15300954E64 /* Model */,
 				2C459BE41F24D7D400FDF832 /* AppDelegate.swift */,
-				2C459BE61F24D7D400FDF832 /* ViewController.swift */,
 				2C459BE81F24D7D400FDF832 /* Main.storyboard */,
 				2C459BEB1F24D7D400FDF832 /* Assets.xcassets */,
 				2C459BED1F24D7D400FDF832 /* LaunchScreen.storyboard */,
 				2C459BF01F24D7D400FDF832 /* Info.plist */,
+				2CD4A33E1F24EB65004C7CBD /* GoogleService-Info.plist */,
 			);
 			path = Iquue;
+			sourceTree = "<group>";
+		};
+		2C459BFA1F24DA4700FDF832 /* DesignableX */ = {
+			isa = PBXGroup;
+			children = (
+				2CD4A33C1F24EB53004C7CBD /* GoogleService-Info.plist */,
+				2C459BFB1F24DA4700FDF832 /* UIButtonX.swift */,
+				2C459BFC1F24DA4700FDF832 /* UIImageViewX.swift */,
+				2C459BFD1F24DA4700FDF832 /* UILabelX.swift */,
+				2C459BFE1F24DA4700FDF832 /* UISliderX.swift */,
+				2C459BFF1F24DA4700FDF832 /* UITextFieldX.swift */,
+				2C459C001F24DA4700FDF832 /* UIViewAnchorPoint.swift */,
+				2C459C011F24DA4700FDF832 /* UIViewControllerX.swift */,
+				2C459C021F24DA4700FDF832 /* UIViewX.swift */,
+				2C459C031F24DA4700FDF832 /* UIViewXRadialGradient.swift */,
+				2C459C041F24DA4700FDF832 /* UIVisualEffectViewX.swift */,
+			);
+			path = DesignableX;
+			sourceTree = "<group>";
+		};
+		D0EDD775781825891F41822E /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				AE9D36763C2A7D36C0FF01CB /* Pods_Iquue.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		DCE02193069614C3529F620D /* Pods */ = {
+			isa = PBXGroup;
+			children = (
+				6990F3C777ADE40C40738DD2 /* Pods-Iquue.debug.xcconfig */,
+				9D5F5E457F814295A88DBCEA /* Pods-Iquue.release.xcconfig */,
+			);
+			name = Pods;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -71,9 +166,12 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = 2C459BF31F24D7D400FDF832 /* Build configuration list for PBXNativeTarget "Iquue" */;
 			buildPhases = (
+				8524F283A7C02F4BEA0BC256 /* [CP] Check Pods Manifest.lock */,
 				2C459BDD1F24D7D400FDF832 /* Sources */,
 				2C459BDE1F24D7D400FDF832 /* Frameworks */,
 				2C459BDF1F24D7D400FDF832 /* Resources */,
+				9998DCB6601D1B5A77167E63 /* [CP] Embed Pods Frameworks */,
+				6B29EA63A6602D677E96F64C /* [CP] Copy Pods Resources */,
 			);
 			buildRules = (
 			);
@@ -125,6 +223,8 @@
 			buildActionMask = 2147483647;
 			files = (
 				2C459BEF1F24D7D400FDF832 /* LaunchScreen.storyboard in Resources */,
+				2CD4A33D1F24EB53004C7CBD /* GoogleService-Info.plist in Resources */,
+				2CD4A33F1F24EB65004C7CBD /* GoogleService-Info.plist in Resources */,
 				2C459BEC1F24D7D400FDF832 /* Assets.xcassets in Resources */,
 				2C459BEA1F24D7D400FDF832 /* Main.storyboard in Resources */,
 			);
@@ -132,13 +232,72 @@
 		};
 /* End PBXResourcesBuildPhase section */
 
+/* Begin PBXShellScriptBuildPhase section */
+		6B29EA63A6602D677E96F64C /* [CP] Copy Pods Resources */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "[CP] Copy Pods Resources";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-Iquue/Pods-Iquue-resources.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+		8524F283A7C02F4BEA0BC256 /* [CP] Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "[CP] Check Pods Manifest.lock";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n";
+			showEnvVarsInLog = 0;
+		};
+		9998DCB6601D1B5A77167E63 /* [CP] Embed Pods Frameworks */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "[CP] Embed Pods Frameworks";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-Iquue/Pods-Iquue-frameworks.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+/* End PBXShellScriptBuildPhase section */
+
 /* Begin PBXSourcesBuildPhase section */
 		2C459BDD1F24D7D400FDF832 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				2C459C0E1F24DA4700FDF832 /* UIVisualEffectViewX.swift in Sources */,
+				2C459C051F24DA4700FDF832 /* UIButtonX.swift in Sources */,
+				2C459C061F24DA4700FDF832 /* UIImageViewX.swift in Sources */,
+				2C459C0D1F24DA4700FDF832 /* UIViewXRadialGradient.swift in Sources */,
+				2C459C0C1F24DA4700FDF832 /* UIViewX.swift in Sources */,
 				2C459BE71F24D7D400FDF832 /* ViewController.swift in Sources */,
+				2C459C0A1F24DA4700FDF832 /* UIViewAnchorPoint.swift in Sources */,
+				2C459C071F24DA4700FDF832 /* UILabelX.swift in Sources */,
+				2C459C0B1F24DA4700FDF832 /* UIViewControllerX.swift in Sources */,
+				2C459C091F24DA4700FDF832 /* UITextFieldX.swift in Sources */,
 				2C459BE51F24D7D400FDF832 /* AppDelegate.swift in Sources */,
+				2C459C081F24DA4700FDF832 /* UISliderX.swift in Sources */,
+				2C459BF91F24D8EB00FDF832 /* SignInVC.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -261,6 +420,7 @@
 		};
 		2C459BF41F24D7D400FDF832 /* Debug */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 6990F3C777ADE40C40738DD2 /* Pods-Iquue.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				DEVELOPMENT_TEAM = HFRBUUM266;
@@ -274,6 +434,7 @@
 		};
 		2C459BF51F24D7D400FDF832 /* Release */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 9D5F5E457F814295A88DBCEA /* Pods-Iquue.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				DEVELOPMENT_TEAM = HFRBUUM266;
@@ -304,6 +465,7 @@
 				2C459BF51F24D7D400FDF832 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
